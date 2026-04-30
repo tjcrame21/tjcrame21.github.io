@@ -2,9 +2,34 @@
 <html>
 <head>
   <title>Tyler Cramer</title>
+  <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
   <h1>Tyler Cramer</h1>
   <p>Welcome to my website.</p>
+
+  <div class="tabs">
+    <button class="tab-button active" onclick="openTab(event, 'home')">Home</button>
+    <button class="tab-button" onclick="openTab(event, 'about')">About</button>
+    <button class="tab-button" onclick="openTab(event, 'video')">Video</button>
+  </div>
+
+  <div id="home" class="tab-content active">
+    <h2>Home</h2>
+    <p>This is the home tab.</p>
+  </div>
+
+  <div id="about" class="tab-content">
+    <h2>About</h2>
+    <p>Write something about yourself here.</p>
+  </div>
+
+  <div id="video" class="tab-content">
+    <h2>Video</h2>
+    <p>Put your YouTube embed here.</p>
+  </div>
+
+  <script src="script.js"></script>
 </body>
 </html>

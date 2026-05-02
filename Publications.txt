@@ -1,4 +1,8 @@
+2025
+J. P. Wiley, E. Robertson, T. Cramer, J. K. Miller, and E. G. Johnson, “Optimized optical propagation through underwater turbulence using off-axis Bessel-Gauss beam probing,” Optics Express, vol. 33, no. 8, pp. 17869–17883, Apr. 2025, doi: https://doi.org/10.1364/OE.561320.
+
+E. Robertson, J. Wiley, T. Cramer, J. K. Miller, and E. G. Johnson, “Phase Modulated Coherently Coupled Orbital Angular Momentum for FMCW Ranging and Velocimetry,” IEEE Photonics Technology Letters, vol. 37, no. 17, pp. 997–1000, Sep. 2025, doi: https://doi.org/10.1109/lpt.2025.3576653.
 
 2024
-[1]T. Cramer, J. K. Miller, M. Reid, E. Robertson, J. Wiley, and E. G. Johnson, “Higher order Bessel beams integrated in time (HOBBIT) with engineered light frequencies (ELFs),” Optics Express, vol. 32, no. 20, p. 34966, Sep. 2024, doi: https://doi.org/10.1364/oe.534698.
+T. Cramer, J. K. Miller, M. Reid, E. Robertson, J. Wiley, and E. G. Johnson, “Higher order Bessel beams integrated in time (HOBBIT) with engineered light frequencies (ELFs),” Optics Express, vol. 32, no. 20, p. 34966, Sep. 2024, doi: https://doi.org/10.1364/oe.534698.
 ‌

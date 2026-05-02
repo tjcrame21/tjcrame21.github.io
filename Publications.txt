@@ -1,4 +1,3 @@
-Publications
 
 2024
 [1]T. Cramer, J. K. Miller, M. Reid, E. Robertson, J. Wiley, and E. G. Johnson, “Higher order Bessel beams integrated in time (HOBBIT) with engineered light frequencies (ELFs),” Optics Express, vol. 32, no. 20, p. 34966, Sep. 2024, doi: https://doi.org/10.1364/oe.534698.

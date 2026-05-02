@@ -32,6 +32,15 @@
               document.getElementById("Publications").textContent = text;
             });
     </script>
+    <h2>Patents</h2>
+    <pre id="Patents"></pre>
+    <script>
+          fetch("Patents.txt")
+            .then(response => response.text())
+            .then(text => {
+              document.getElementById("Patents").textContent = text;
+            });
+    </script>
   </div>
 
   <div id="research" class="tab-content">

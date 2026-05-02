@@ -23,6 +23,15 @@
   <div id="about" class="tab-content">
     <h2>About</h2>
     <p>Write something about yourself here.</p>
+    <h2>Publications</h2>
+    <pre id="publications"></pre>
+    <script>
+          fetch("description.txt")
+            .then(response => response.text())
+            .then(text => {
+              document.getElementById("description").textContent = text;
+            });
+  </script>
   </div>
 
   <div id="research" class="tab-content">

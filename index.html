@@ -7,7 +7,7 @@
 
 <body>
   <h1>Tyler Cramer</h1>
-  <p>Welcome to my website.</p>
+  <p>Optics and Photonics Engineer</p>
 
   <div class="tabs">
     <button class="tab-button active" onclick="openTab(event, 'home')">Home</button>
@@ -26,7 +26,7 @@
           fetch("Biography2.txt")
             .then(response => response.text())
             .then(text => {
-              document.getElementById("Publications").textContent = text;
+              document.getElementById("Biography2").textContent = text;
             });
     </script>
     <h2>Publications</h2>

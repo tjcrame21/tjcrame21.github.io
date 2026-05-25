@@ -1,0 +1,9 @@
+Biography
+
+Tyler Cramer is an optics and photonics engineer from North Charleston, South Carolina. He began working in optics during his sophomore year at Clemson University in the Microphotonics Lab, where he studied the properties of structured light and applied them to quantum key distribution systems. Alongside his research, he led a STEM outreach program for students at a local high school and contributed to Clemson’s Rocketry Team as a member of the Avionics Team.
+
+Tyler completed his bachelor’s degree in Electrical Engineering in 2023, with minors in Mathematics and Physics. He continued his research in the Microphotonics Lab, where he developed a novel high-speed beam-steering mechanism by combining multiple frequencies on an acousto-optic deflector and demonstrated its potential for computational imaging. Alongside his research responsibilities, he trained and mentored several undergraduate students on a range of lab research projects.
+
+Although he initially intended to complete his PhD at Clemson, Tyler chose to transition into industry to pursue faster-moving opportunities in applied photonics research and development. He began working on free-space optical communication systems at the Naval Information Warfare Center under Dr. Wells, before seeking opportunities focused more directly on cutting-edge beam-steering and beam-shaping technologies.
+
+After receiving an offer from Analog Photonics, Tyler moved to Boston to join the Advanced Projects Team, where he works on phased-array LiDAR and other photonic integrated circuit technologies. During his time at Analog Photonics, he has helped develop digital signal processing algorithms for novel LiDAR signals, led the design and layout for Phase 1 of the ManTech project—Analog Photonics’ first effort in thin-film lithium niobate, and developed the simulations for the TAPNA acouto-optic beam steering project.

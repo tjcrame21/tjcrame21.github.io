@@ -33,3 +33,9 @@ body {
 .tab-content.active {
   display: block;
 }
+
+pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+

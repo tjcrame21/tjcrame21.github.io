@@ -23,6 +23,13 @@
 
   <div id="skills" class="tab-content active">
   <h2>Skills</h2>
+  <script>
+    fetch("skills.html")
+      .then(response => response.text())
+      .then(html => {
+       document.getElementById("skills").innerHTML = html;
+    });
+  </script>
   <p>...</p>
   </div>
 

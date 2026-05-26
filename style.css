@@ -47,3 +47,8 @@ ul li::before {
   content: "✅";
   margin-right: 8px;
 }
+
+.image-container img {
+  width: 300px;
+  height: auto;
+}

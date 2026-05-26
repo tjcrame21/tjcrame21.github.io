@@ -4,5 +4,8 @@ J. P. Wiley, E. Robertson, T. Cramer, J. K. Miller, and E. G. Johnson, “Optimi
 E. Robertson, J. Wiley, T. Cramer, J. K. Miller, and E. G. Johnson, “Phase Modulated Coherently Coupled Orbital Angular Momentum for FMCW Ranging and Velocimetry,” IEEE Photonics Technology Letters, vol. 37, no. 17, pp. 997–1000, Sep. 2025, doi: https://doi.org/10.1109/lpt.2025.3576653.
 
 2024
+Cramer, Tyler, "Higher Order Bessel Beams Integrated in Time (HOBBIT) With Engineered Light
+Frequencies and Applications in Computational Imaging" (2024). All Theses. 4445
+
 T. Cramer, J. K. Miller, M. Reid, E. Robertson, J. Wiley, and E. G. Johnson, “Higher order Bessel beams integrated in time (HOBBIT) with engineered light frequencies (ELFs),” Optics Express, vol. 32, no. 20, p. 34966, Sep. 2024, doi: https://doi.org/10.1364/oe.534698.
 ‌

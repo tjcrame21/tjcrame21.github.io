@@ -54,7 +54,7 @@ ul li::before {
 }
 
 .clickable-gif {
-  max-width: 100%;
+  max-width: 25%;
   height: auto;
   cursor: pointer;
   display: block;

@@ -52,3 +52,10 @@ ul li::before {
   width: 300px;
   height: auto;
 }
+
+.clickable-gif {
+  max-width: 100%;
+  height: auto;
+  cursor: pointer;
+  display: block;
+}

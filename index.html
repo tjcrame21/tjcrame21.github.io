@@ -122,5 +122,14 @@
   </div>
 
   <script src="layout.js"></script>
+
+<script>
+  const gif = document.getElementById("simulation-gif");
+
+  gif.addEventListener("click", function () {
+    gif.src = gif.dataset.gif;
+  });
+</script>
+  
 </body>
 </html>

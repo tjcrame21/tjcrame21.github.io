@@ -123,13 +123,18 @@
 
   <script src="layout.js"></script>
 
-<script>
-  const gif = document.getElementById("simulation-gif");
-
-  gif.addEventListener("click", function () {
-    gif.src = gif.dataset.gif;
-  });
-</script>
+  <script>
+    const gif = document.getElementById("simulation-gif");
+    const still = gif.src; // save the original still image path
+  
+    gif.addEventListener("click", function () {
+      if (gif.src.endsWith(still.split('/').pop())) {
+        gif.src = gif.dataset.gif; // switch to GIF
+      } else {
+        gif.src = still;           // switch back to still
+      }
+    });
+  </script>
   
 </body>
 </html>
